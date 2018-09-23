@@ -1,8 +1,8 @@
 == Description
 Application for tourist information
 
-===Shot description
+=== Shot description
 
-===Use Cases
+=== Use Cases
 
-===Functional Requirements
+=== Functional Requirements
